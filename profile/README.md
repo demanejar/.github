@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/demanejar/logo/main/demanejar.png" width="100"/>
   <div id="badges">
     <a href="https://img.shields.io/badge/product-hunt-orange?style=for-the-badge&logo=product-hunt&logoColor=orange">
-      <img src="https://www.producthunt.com/products/simple-blog-for-crawler-and-bigdata" alt="Product Hunt Badge"/>
+      <img src="https://img.shields.io/badge/product-hunt-orange?style=for-the-badge&logo=product-hunt&logoColor=orange" alt="Product Hunt Badge"/>
     </a>
     <a href="https://github.com/orgs/demanejar/discussions">
       <img src="https://img.shields.io/badge/Discussions-black?style=for-the-badge&logo=Discussions&logoColor=orange" alt="Discussions Badge"/>
