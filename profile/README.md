@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
+<!--
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/demanejar/logo/main/demanejar.png" width="100"/>
   <div id="badges">
@@ -25,3 +25,20 @@
     </a>
   </div>
 </div>
+-->
+
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/demanejar/logo/main/demanejar.png" width="100"/>
+  <div id="badges">
+    <a href="https://img.shields.io/badge/product-hunt-orange?style=for-the-badge&logo=product-hunt&logoColor=orange">
+      <img src="https://www.producthunt.com/products/simple-blog-for-crawler-and-bigdata" alt="Product Hunt Badge"/>
+    </a>
+    <a href="https://github.com/orgs/demanejar/discussions">
+      <img src="https://img.shields.io/badge/Discussions-black?style=for-the-badge&logo=Discussions&logoColor=orange" alt="Discussions Badge"/>
+    </a>
+    <a href="https://twitter.com/DeManejar">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
