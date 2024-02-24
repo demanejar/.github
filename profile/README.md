@@ -34,10 +34,10 @@
       <img src="https://img.shields.io/badge/product-hunt-orange?style=for-the-badge&logo=product-hunt&logoColor=orange" alt="Product Hunt Badge"/>
     </a>
     <a href="https://github.com/orgs/demanejar/discussions">
-      <img src="https://img.shields.io/badge/Discussions-black?style=for-the-badge&logo=Discussions&logoColor=orange" alt="Discussions Badge"/>
+      <img src="https://img.shields.io/badge/github-Discussions-black?style=for-the-badge&logo=github&logoColor=white" alt="Discussions Badge"/>
     </a>
-    <a href="https://twitter.com/DeManejar">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://github.com/orgs/demanejar/repositories">
+      <img src="https://img.shields.io/badge/github-repositories-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Repositories Badge"/>
     </a>
   </div>
 </div>
