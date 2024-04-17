@@ -33,7 +33,7 @@
     <a href="https://www.producthunt.com/products/simple-blog-for-crawler-and-bigdata">
       <img src="https://img.shields.io/badge/product-hunt-orange?style=for-the-badge&logo=product-hunt&logoColor=orange" alt="Product Hunt Badge"/>
     </a>
-    <a href="https://www.youtube.com/@DeManejarChannel">
+    <a href="https://www.youtube.com/@piandhust">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://github.com/orgs/demanejar/discussions">
